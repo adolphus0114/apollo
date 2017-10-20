@@ -90,7 +90,7 @@ Java客户端不依赖任何框架，能够运行于所有Java运行时环境，
   * [部署&开发遇到的常见问题](https://github.com/ctripcorp/apollo/wiki/%E9%83%A8%E7%BD%B2&%E5%BC%80%E5%8F%91%E9%81%87%E5%88%B0%E7%9A%84%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 
 # Presentation
-  * [携程开源配置中心Apollo的设计与实现](http://www.itdks.com/dakashuo/new/dakalive/detail/3420)
+  * [携程开源配置中心Apollo的设计与实现](http://www.itdks.com/dakalive/detail/3420)
   * [Slides](http://techshow.ctrip.com/wp-content/uploads/2017/08/%E5%BC%80%E6%BA%90%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83Apollo%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0-%E6%90%BA%E7%A8%8B%E5%AE%8B%E9%A1%BA.pdf)
 
 # Support
@@ -121,3 +121,7 @@ The project is licensed under the [Apache 2 license](https://github.com/ctripcor
 ![首展科技](https://github.com/ctripcorp/apollo/blob/master/doc/images/known-users/fshows.jpg) 
 ![易微行](https://github.com/ctripcorp/apollo/blob/master/doc/images/known-users/feezu.png) 
 ![人才加](https://github.com/ctripcorp/apollo/blob/master/doc/images/known-users/rencaijia.png) 
+![凯京集团](https://github.com/ctripcorp/apollo/blob/master/doc/images/known-users/keking.png) 
+![乐刻运动](https://github.com/ctripcorp/apollo/blob/master/doc/images/known-users/leoao.png) 
+![大疆](https://github.com/ctripcorp/apollo/blob/master/doc/images/known-users/dji.png) 
+![快看漫画](https://github.com/ctripcorp/apollo/blob/master/doc/images/known-users/kkmh.png) 
